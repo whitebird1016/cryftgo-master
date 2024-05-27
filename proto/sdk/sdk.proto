@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package sdk;
+
+option go_package = "github.com/cryft-labs/cryftgo/proto/pb/sdk";
+
+message PullGossipRequest {
+  bytes salt = 2;
+  bytes filter = 3;
+}
+
+message PullGossipResponse {
+  repeated bytes gossip = 1;
+}
+
+message PushGossip {
+  repeated bytes gossip = 1;
+}

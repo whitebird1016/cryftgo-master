@@ -1,0 +1,64 @@
+{
+  "networkID": 1,
+  "allocations": [
+    {
+      "ethAddr": "0x2B7361056b31D2bf201E6764e7825fd31c0D223A",
+      "avaxAddr": "X-cryft1ntj8wvjrgp3vq74yqmq28gvu9n6ccn4jx03895",
+      "initialAmount": 0,
+      "unlockSchedule": [
+        {
+          "amount": 8000000000000
+        }
+      ]
+    },
+    {
+      "ethAddr": "0xFd57233368Ecd65004496267e33e980A4A5eF5FE",
+      "avaxAddr": "X-cryft1q0l8dkaa2td4gsnwv8dctra77dvfzqkppqtzkm",
+      "initialAmount": 359000000000000000
+    }
+  ],
+  "startTime": 1716339363,
+  "initialStakeDuration": 31536000,
+  "initialStakeDurationOffset": 5400,
+  "initialStakedFunds": ["X-cryft1ntj8wvjrgp3vq74yqmq28gvu9n6ccn4jx03895"],
+  "initialStakers": [
+    {
+      "nodeID": "NodeID-8SLxfVGcMZ4w18seGVVGNaduVSxnZgW5C",
+      "rewardAddress": "X-cryft1ntj8wvjrgp3vq74yqmq28gvu9n6ccn4jx03895",
+      "delegationFee": 20000,
+      "signer": {
+        "publicKey": "0xa1a7cd15e7f29215cb30643c61e29acbb1075108726c8e6b995d4a90219dd39f810e2b0d528450e5057899cc9bba3bf6",
+        "proofOfPossession": "0x932904e48357a1ff35c16b3b5f2862daf75b60fd480e0846000841c94dde4ad2121eb7664a0eec0cacd98df1cf118c6f0f853a07ffcbb3a21f730f243b128c9aa7da0e5649241599c47a0d66c721307f8618c0b6c5cd843328f78d1ba747e81f"
+      }
+    },
+    {
+      "nodeID": "NodeID-PiFDsLCoj42oVYi6hfyJEG2VvRhRrp1kL",
+      "rewardAddress": "X-cryft1ntj8wvjrgp3vq74yqmq28gvu9n6ccn4jx03895",
+      "delegationFee": 20000,
+      "signer": {
+        "publicKey": "0x810866c6dcd7c4136123d3515c06099fa469fab68db04ae9c4fa4c281f284178aca1e58f3566dc180d293bff798141c0",
+        "proofOfPossession": "0x894df8830ba0d5ed8f77e00c6924e473fba0253607659d9f0848b6eea573020673b0d452f7814f8ec54f7cece7ce709913ec13abfb33b5b09e45e965f0d074b4c94fa149e5d1405b18400f0c102e3f01f85ddaa25347f83ba8b97a50983e28e4"
+      }
+    },
+    {
+      "nodeID": "NodeID-N2nrYd8emSEYQFKo22nUxfP5i1k5a6RM8",
+      "rewardAddress": "X-cryft1ntj8wvjrgp3vq74yqmq28gvu9n6ccn4jx03895",
+      "delegationFee": 20000,
+      "signer": {
+        "publicKey": "0xb74cafab29d99e1cf4dc9a92cd5b6aa7ae8ba4214e125f852af079298ad60679aa9043af92224b00899c336e8dba8ee3",
+        "proofOfPossession": "0xa6a8a325650edc2ac95a3aac4b481a8413d4fe7d95aa4ac00ba1f74da56aa79e1961bb622b80f4bd71054fe3a2a9bc32080a39b5e8dcb97856682446b1b29c29d1aa0e269acfb9ce6cc22d7af81f05c63c0b8f186ec87031126f1207b52d8043"
+      }
+    },
+    {
+      "nodeID": "NodeID-6HVZ5T5xjmk5icmgBMVqKJXK37fkgkqFg",
+      "rewardAddress": "X-cryft1ntj8wvjrgp3vq74yqmq28gvu9n6ccn4jx03895",
+      "delegationFee": 20000,
+      "signer": {
+        "publicKey": "0xb478c4823d8df0ecf70923d9ee581244d40c4ee9175e0299ce204ff43aca51629d14c62318ac0b180d86e9416aa163e7",
+        "proofOfPossession": "0xb7b1ed803d80f8879fbeda76d66e08a372f191cc01ea0a3ea1124ebc788abf50ca1bd1782d38ef54114073234a0ca83406b851d01a78c2ab3c85fa4ab1997886438092465518d27a6d3785a9e2600cbb0a3b530a521b595291780c9279e1aa37"
+      }
+    }
+  ],
+  "cChainGenesis": "{\"config\":{\"chainId\":32323,\"homesteadBlock\":0,\"daoForkBlock\":0,\"daoForkSupport\":true,\"eip150Block\":0,\"eip150Hash\":\"0x2086799aeebeae135c246c65021c82b4e15a2c451340993aacfd2751886514f0\",\"eip155Block\":0,\"eip158Block\":0,\"byzantiumBlock\":0,\"constantinopleBlock\":0,\"petersburgBlock\":0,\"istanbulBlock\":0,\"muirGlacierBlock\":0},\"nonce\":\"0x0\",\"timestamp\":\"0x0\",\"extraData\":\"0x00\",\"gasLimit\":\"0x5f5e100\",\"difficulty\":\"0x0\",\"mixHash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\",\"coinbase\":\"0x0000000000000000000000000000000000000000\",\"alloc\":{\"0100000000000000000000000000000000000000\":{\"code\":\"0x7300000000000000000000000000000000000000003014608060405260043610603d5760003560e01c80631e010439146042578063b6510bb314606e575b600080fd5b605c60048036036020811015605657600080fd5b503560b1565b60408051918252519081900360200190f35b818015607957600080fd5b5060af60048036036080811015608e57600080fd5b506001600160a01b03813516906020810135906040810135906060013560b6565b005b30cd90565b836001600160a01b031681836108fc8690811502906040516000604051808303818888878c8acf9550505050505015801560f4573d6000803e3d6000fd5b505050505056fea26469706673582212201eebce970fe3f5cb96bf8ac6ba5f5c133fc2908ae3dcd51082cfee8f583429d064736f6c634300060a0033\",\"balance\":\"0x0\"}},\"number\":\"0x0\",\"gasUsed\":\"0x0\",\"parentHash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\"}",
+  "message": "A Blockchain Network for Gifting by CryftCreator. Visit https://cryft.network for network details."
+}

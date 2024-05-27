@@ -1,0 +1,38 @@
+{
+    "mainnet": [
+        {
+            "id": "NodeID-8SLxfVGcMZ4w18seGVVGNaduVSxnZgW5C",
+            "ip": "32.0.0.39:9651"
+        },
+        {
+            "id": "NodeID-PiFDsLCoj42oVYi6hfyJEG2VvRhRrp1kL",
+            "ip": "32.0.0.40:9651"
+        },
+        {
+            "id": "NodeID-N2nrYd8emSEYQFKo22nUxfP5i1k5a6RM8",
+            "ip": "32.0.0.41:9651"
+        },
+        {
+            "id": "NodeID-6HVZ5T5xjmk5icmgBMVqKJXK37fkgkqFg",
+            "ip": "32.0.0.42:9651"
+        }
+    ],
+    "fuji": [
+        {
+            "id": "NodeID-8SLxfVGcMZ4w18seGVVGNaduVSxnZgW5C",
+            "ip": "32.0.0.39:9651"
+        },
+        {
+            "id": "NodeID-PiFDsLCoj42oVYi6hfyJEG2VvRhRrp1kL",
+            "ip": "32.0.0.40:9651"
+        },
+        {
+            "id": "NodeID-N2nrYd8emSEYQFKo22nUxfP5i1k5a6RM8",
+            "ip": "32.0.0.41:9651"
+        },
+        {
+            "id": "NodeID-6HVZ5T5xjmk5icmgBMVqKJXK37fkgkqFg",
+            "ip": "32.0.0.42:9651"
+        }
+    ]
+}
